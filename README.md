@@ -1,1 +1,1 @@
-# threadsXapis
+The main reason for this application is that it creates many threads which are needed to request desired URL-s and then get data and save them in one json file. In addition to that, whenever user runs the code he or she will be able to see how much time does program needs to run and perform all program operations.
